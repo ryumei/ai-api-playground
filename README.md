@@ -1,11 +1,11 @@
-# Cohere Playground
+# AI API Playground
 
-Hands-on exploration of Cohere/Anthropic/etc's enterprise AI capabilities, focusing on RAG (Retrieval-Augmented Generation), multilingual support, and integration patterns for Japanese enterprise environments.
+Enterprise AI API Exploration: Cohere, OpenAI, Anthropic comparison with focus on Japanese multilingual and RAG capabilitiessupport, and integration patterns for Japanese enterprise environments.
 
 ## Overview
 
 This repository contains Jupyter notebooks demonstrating:
-- Basic Cohere API usage (chat, generation)
+- Basic AI API usage (chat, generation)
 - Comparison with OpenAI API
 - RAG implementations for enterprise use cases
 - Japanese language processing examples
