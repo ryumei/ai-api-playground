@@ -8,3 +8,4 @@ claude==0.4.11
 anthropic==0.76.0
 pandas==2.3.3
 lxml==6.0.2
+nbstripout==0.9.0
